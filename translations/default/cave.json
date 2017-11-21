@@ -1,0 +1,1188 @@
+{
+    "Cave": [
+        {
+            "Roomid": "1",
+            "North": "5",
+            "South": "4",
+            "East": "3",
+            "West": "2"
+        },
+        {
+            "Roomid": "2",
+            "North": "0",
+            "South": "5",
+            "East": "1",
+            "West": "0"
+        },
+        {
+            "Roomid": "3",
+            "North": "6",
+            "South": "6",
+            "East": "6",
+            "West": "1"
+        },
+        {
+            "Roomid": "4",
+            "North": "1",
+            "South": "7",
+            "East": "5",
+            "West": "5"
+        },
+        {
+            "Roomid": "5",
+            "North": "6",
+            "South": "5",
+            "East": "4",
+            "West": "5"
+        },
+        {
+            "Roomid": "6",
+            "North": "1",
+            "South": "4",
+            "East": "4",
+            "West": "4"
+        },
+        {
+            "Roomid": "7",
+            "North": "4",
+            "South": "8",
+            "East": "3",
+            "West": "5"
+        },
+        {
+            "Roomid": "8",
+            "North": "7",
+            "South": "9",
+            "East": "6",
+            "West": "5"
+        },
+        {
+            "Roomid": "9",
+            "North": "8",
+            "South": "0",
+            "East": "0",
+            "West": "10"
+        },
+        {
+            "Roomid": "10",
+            "North": "0",
+            "South": "0",
+            "East": "9",
+            "West": "11"
+        },
+        {
+            "Roomid": "11",
+            "North": "9",
+            "South": "0",
+            "East": "10",
+            "West": "12"
+        },
+        {
+            "Roomid": "12",
+            "North": "9",
+            "South": "0",
+            "East": "11",
+            "West": "13"
+        },
+        {
+            "Roomid": "13",
+            "North": "9",
+            "South": "0",
+            "East": "12",
+            "West": "14"
+        },
+        {
+            "Roomid": "14",
+            "North": "9",
+            "South": "15",
+            "East": "13",
+            "West": "0"
+        },
+        {
+            "Roomid": "15",
+            "North": "14",
+            "South": "19",
+            "East": "18",
+            "West": "17"
+        },
+        {
+            "Roomid": "17",
+            "North": "0",
+            "South": "0",
+            "East": "15",
+            "West": "27"
+        },
+        {
+            "Roomid": "18",
+            "North": "15",
+            "South": "19",
+            "East": "0",
+            "West": "28"
+        },
+        {
+            "Roomid": "19",
+            "North": "15",
+            "South": "-2",
+            "East": "74",
+            "West": "30"
+        },
+        {
+            "Roomid": "27",
+            "North": "0",
+            "South": "19",
+            "East": "17",
+            "West": "41"
+        },
+        {
+            "Roomid": "28",
+            "North": "33",
+            "South": "36",
+            "East": "18",
+            "West": "0"
+        },
+        {
+            "Roomid": "29",
+            "North": "19",
+            "South": "0",
+            "East": "0",
+            "West": "0"
+        },
+        {
+            "Roomid": "30",
+            "North": "0",
+            "South": "0",
+            "East": "19",
+            "West": "62"
+        },
+        {
+            "Roomid": "33",
+            "North": "39",
+            "South": "28",
+            "East": "34",
+            "West": "35"
+        },
+        {
+            "Roomid": "34",
+            "North": "-1",
+            "South": "33",
+            "East": "0",
+            "West": "33"
+        },
+        {
+            "Roomid": "35",
+            "North": "0",
+            "South": "0",
+            "East": "33",
+            "West": "0"
+        },
+        {
+            "Roomid": "36",
+            "North": "28",
+            "South": "0",
+            "East": "37",
+            "West": "39"
+        },
+        {
+            "Roomid": "37",
+            "North": "0",
+            "South": "38",
+            "East": "0",
+            "West": "36"
+        },
+        {
+            "Roomid": "38",
+            "North": "37",
+            "South": "0",
+            "East": "0",
+            "West": "0"
+        },
+        {
+            "Roomid": "39",
+            "North": "34",
+            "South": "33",
+            "East": "36",
+            "West": "0"
+        },
+        {
+            "Roomid": "41",
+            "North": "0",
+            "South": "201",
+            "East": "27",
+            "West": "60"
+        },
+        {
+            "Roomid": "60",
+            "North": "62",
+            "South": "0",
+            "East": "41",
+            "West": "0"
+        },
+        {
+            "Roomid": "61",
+            "North": "62",
+            "South": "210",
+            "East": "60",
+            "West": "0"
+        },
+        {
+            "Roomid": "62",
+            "North": "63",
+            "South": "61",
+            "East": "30",
+            "West": "60"
+        },
+        {
+            "Roomid": "63",
+            "North": "0",
+            "South": "62",
+            "East": "0",
+            "West": "0"
+        },
+        {
+            "Roomid": "69",
+            "North": "109",
+            "South": "120",
+            "East": "0",
+            "West": "0"
+        },
+        {
+            "Roomid": "74",
+            "North": "109",
+            "South": "75",
+            "East": "19",
+            "West": "120"
+        },
+        {
+            "Roomid": "75",
+            "North": "74",
+            "South": "0",
+            "East": "77",
+            "West": "0"
+        },
+        {
+            "Roomid": "77",
+            "North": "35",
+            "South": "75",
+            "East": "0",
+            "West": "78"
+        },
+        {
+            "Roomid": "78",
+            "North": "0",
+            "South": "77",
+            "East": "0",
+            "West": "0"
+        },
+        {
+            "Roomid": "109",
+            "North": "113",
+            "South": "69",
+            "East": "0",
+            "West": "0"
+        },
+        {
+            "Roomid": "113",
+            "North": "0",
+            "South": "109",
+            "East": "0",
+            "West": "-1"
+        },
+        {
+            "Roomid": "120",
+            "North": "69",
+            "South": "0",
+            "East": "74",
+            "West": "-3"
+        },
+        {
+            "Roomid": "200",
+            "North": "201",
+            "South": "200",
+            "East": "201",
+            "West": "200"
+        },
+        {
+            "Roomid": "201",
+            "North": "41",
+            "South": "204",
+            "East": "202",
+            "West": "200"
+        },
+        {
+            "Roomid": "202",
+            "North": "204",
+            "South": "205",
+            "East": "212",
+            "West": "201"
+        },
+        {
+            "Roomid": "203",
+            "North": "0",
+            "South": "0",
+            "East": "204",
+            "West": "13"
+        },
+        {
+            "Roomid": "204",
+            "North": "201",
+            "South": "212",
+            "East": "202",
+            "West": "203"
+        },
+        {
+            "Roomid": "205",
+            "North": "0",
+            "South": "207",
+            "East": "202",
+            "West": "0"
+        },
+        {
+            "Roomid": "206",
+            "North": "0",
+            "South": "0",
+            "East": "207",
+            "West": "210"
+        },
+        {
+            "Roomid": "207",
+            "North": "212",
+            "South": "211",
+            "East": "205",
+            "West": "206"
+        },
+        {
+            "Roomid": "208",
+            "North": "208",
+            "South": "208",
+            "East": "245",
+            "West": "211"
+        },
+        {
+            "Roomid": "209",
+            "North": "211",
+            "South": "0",
+            "East": "0",
+            "West": "0"
+        },
+        {
+            "Roomid": "210",
+            "North": "0",
+            "South": "209",
+            "East": "0",
+            "West": "206"
+        },
+        {
+            "Roomid": "211",
+            "North": "208",
+            "South": "0",
+            "East": "211",
+            "West": "207"
+        },
+        {
+            "Roomid": "212",
+            "North": "202",
+            "South": "200",
+            "East": "0",
+            "West": "204"
+        },
+        {
+            "Roomid": "213",
+            "North": "250",
+            "South": "213",
+            "East": "13",
+            "West": "0"
+        },
+        {
+            "Roomid": "214",
+            "North": "0",
+            "South": "0",
+            "East": "213",
+            "West": "0"
+        },
+        {
+            "Roomid": "245",
+            "North": "214",
+            "South": "0",
+            "East": "13",
+            "West": "208"
+        },
+        {
+            "Roomid": "250",
+            "North": "0",
+            "South": "213",
+            "East": "0",
+            "West": "0"
+        }
+    ],
+    "DragonRules": [
+        {
+            "Nr": "1",
+            "Effect": "hitloss",
+            "Hitpoints": "-5",
+            "Message": "You get hit by some dragon spittle"
+        },
+        {
+            "Nr": "2",
+            "Effect": "gameover",
+            "Hitpoints": "0",
+            "Message": "The dragon fries you to death!"
+        },
+        {
+            "Nr": "3",
+            "Effect": "hitloss",
+            "Hitpoints": "0",
+            "Message": "A dragon appears. You are about to be fried!"
+        },
+        {
+            "Nr": "4",
+            "Effect": "hitloss",
+            "Hitpoints": "0",
+            "Message": "You are about to become shiskabob!"
+        },
+        {
+            "Nr": "5",
+            "Effect": "hitloss",
+            "Hitpoints": "-10",
+            "Message": "The dragon roars and cooks half of your leg"
+        }
+    ],
+    "Lines": [
+        {
+            "Roomid": "1",
+            "Linenr": "1",
+            "Line": "You are standing at the end of a road before a small brick building."
+        },
+        {
+            "Roomid": "1",
+            "Linenr": "2",
+            "Line": "Around you is a forest.  A small stream flows out of the building and"
+        },
+        {
+            "Roomid": "1",
+            "Linenr": "3",
+            "Line": "down a gully."
+        },
+        {
+            "Roomid": "2",
+            "Linenr": "1",
+            "Line": "You have walked up a hill, still in the forest.  The road slopes back"
+        },
+        {
+            "Roomid": "2",
+            "Linenr": "2",
+            "Line": "down the other side of the hill.  There is a building in the distance."
+        },
+        {
+            "Roomid": "3",
+            "Linenr": "1",
+            "Line": "You are inside a building, a well house for a large spring."
+        },
+        {
+            "Roomid": "4",
+            "Linenr": "1",
+            "Line": "You are in a valley in the forest beside a stream tumbling along a"
+        },
+        {
+            "Roomid": "4",
+            "Linenr": "2",
+            "Line": "rocky bed."
+        },
+        {
+            "Roomid": "5",
+            "Linenr": "1",
+            "Line": "You are in open forest, with a deep valley to one side."
+        },
+        {
+            "Roomid": "6",
+            "Linenr": "1",
+            "Line": "You are in open forest near both a valley and a road."
+        },
+        {
+            "Roomid": "7",
+            "Linenr": "1",
+            "Line": "At your feet all the water of the stream splashes into a 2-inch slit"
+        },
+        {
+            "Roomid": "7",
+            "Linenr": "2",
+            "Line": "in the rock.  Downstream the streambed is bare rock."
+        },
+        {
+            "Roomid": "8",
+            "Linenr": "1",
+            "Line": "You are in a 20-foot depression floored with bare dirt.  Set into the"
+        },
+        {
+            "Roomid": "8",
+            "Linenr": "2",
+            "Line": "dirt is a strong steel grate mounted in concrete.  The grate is open"
+        },
+        {
+            "Roomid": "8",
+            "Linenr": "3",
+            "Line": "and you could probably just squeeze through if you tried. A dry"
+        },
+        {
+            "Roomid": "8",
+            "Linenr": "4",
+            "Line": "streambed leads into the depression."
+        },
+        {
+            "Roomid": "9",
+            "Linenr": "1",
+            "Line": "You are in a small chamber beneath a 3x3 steel grate to the surface."
+        },
+        {
+            "Roomid": "9",
+            "Linenr": "2",
+            "Line": "A low crawl over cobbles leads inward to the west."
+        },
+        {
+            "Roomid": "10",
+            "Linenr": "1",
+            "Line": "You are crawling over cobbles in a low passage.  There is a dim light"
+        },
+        {
+            "Roomid": "10",
+            "Linenr": "2",
+            "Line": "at the east end of the passage."
+        },
+        {
+            "Roomid": "11",
+            "Linenr": "1",
+            "Line": "You are in a debris room filled with stuff washed in from the surface."
+        },
+        {
+            "Roomid": "11",
+            "Linenr": "2",
+            "Line": "A low wide passage with cobbles becomes plugged with mud and debris"
+        },
+        {
+            "Roomid": "11",
+            "Linenr": "3",
+            "Line": "here, but an awkward canyon leads upward and west.  A note on the wall"
+        },
+        {
+            "Roomid": "11",
+            "Linenr": "4",
+            "Line": "says 'Magic word XYZZY'."
+        },
+        {
+            "Roomid": "12",
+            "Linenr": "1",
+            "Line": "You are in an awkward sloping east/west canyon."
+        },
+        {
+            "Roomid": "13",
+            "Linenr": "1",
+            "Line": "You are in a splendid chamber thirty feet high.  The walls are frozen"
+        },
+        {
+            "Roomid": "13",
+            "Linenr": "2",
+            "Line": "rivers of orange stone.  An awkward canyon and a good passage exit"
+        },
+        {
+            "Roomid": "13",
+            "Linenr": "3",
+            "Line": "from east and west sides of the chamber."
+        },
+        {
+            "Roomid": "14",
+            "Linenr": "1",
+            "Line": "At your feet is a small pit breathing traces of white mist.  An east"
+        },
+        {
+            "Roomid": "14",
+            "Linenr": "2",
+            "Line": "passage ends here except for a small crack leading on."
+        },
+        {
+            "Roomid": "15",
+            "Linenr": "1",
+            "Line": "You are at one end of a vast hall stretching forward out of sight to"
+        },
+        {
+            "Roomid": "15",
+            "Linenr": "2",
+            "Line": "the west.  There are openings to either side.  Nearby, a wide stone"
+        },
+        {
+            "Roomid": "15",
+            "Linenr": "3",
+            "Line": "staircase leads downward.  The hall is filled with wisps of white mist"
+        },
+        {
+            "Roomid": "15",
+            "Linenr": "4",
+            "Line": "swaying to and fro almost as if alive.  A cold wind blows up the"
+        },
+        {
+            "Roomid": "15",
+            "Linenr": "5",
+            "Line": "staircase.  There is a passage at the top of a dome behind you."
+        },
+        {
+            "Roomid": "17",
+            "Linenr": "1",
+            "Line": "You are on the east bank of a fissure slicing clear across the hall."
+        },
+        {
+            "Roomid": "17",
+            "Linenr": "2",
+            "Line": "The mist is quite thick here, and the fissure is too wide to jump."
+        },
+        {
+            "Roomid": "18",
+            "Linenr": "1",
+            "Line": "This is a low room with a crude note on the wall.  The note says,"
+        },
+        {
+            "Roomid": "18",
+            "Linenr": "2",
+            "Line": "'It will be hard to get it up the steps'."
+        },
+        {
+            "Roomid": "19",
+            "Linenr": "1",
+            "Line": "You are in the Hall of the Mountain King, with passages off in all"
+        },
+        {
+            "Roomid": "19",
+            "Linenr": "2",
+            "Line": "directions."
+        },
+        {
+            "Roomid": "27",
+            "Linenr": "1",
+            "Line": "You are on the west side of the fissure in the Hall of Mists."
+        },
+        {
+            "Roomid": "28",
+            "Linenr": "1",
+            "Line": "You are in a low N/S passage at a hole in the floor.  The hole goes"
+        },
+        {
+            "Roomid": "28",
+            "Linenr": "2",
+            "Line": "down to an E/W passage."
+        },
+        {
+            "Roomid": "29",
+            "Linenr": "1",
+            "Line": "You are in the south side chamber."
+        },
+        {
+            "Roomid": "30",
+            "Linenr": "1",
+            "Line": "You are in the west side chamber of the Hall of the Mountain King."
+        },
+        {
+            "Roomid": "30",
+            "Linenr": "2",
+            "Line": "A passage continues west and up here."
+        },
+        {
+            "Roomid": "33",
+            "Linenr": "1",
+            "Line": "You are in a large room, with a passage to the south, a passage to the"
+        },
+        {
+            "Roomid": "33",
+            "Linenr": "2",
+            "Line": "west, and a wall of broken rock to the east.  There is a large 'Y2' on"
+        },
+        {
+            "Roomid": "33",
+            "Linenr": "3",
+            "Line": "a rock in the room's center."
+        },
+        {
+            "Roomid": "34",
+            "Linenr": "1",
+            "Line": "You are in a jumble of rock, with cracks everywhere."
+        },
+        {
+            "Roomid": "35",
+            "Linenr": "1",
+            "Line": "You're at a low window overlooking a huge pit, which extends up out of"
+        },
+        {
+            "Roomid": "35",
+            "Linenr": "2",
+            "Line": "sight.  A floor is indistinctly visible over 50 feet below.  Traces of"
+        },
+        {
+            "Roomid": "35",
+            "Linenr": "3",
+            "Line": "white mist cover the floor of the pit, becoming thicker to the right."
+        },
+        {
+            "Roomid": "35",
+            "Linenr": "4",
+            "Line": "Marks in the dust around the window would seem to indicate that"
+        },
+        {
+            "Roomid": "35",
+            "Linenr": "5",
+            "Line": "someone has been here recently.  Directly across the pit from you and"
+        },
+        {
+            "Roomid": "35",
+            "Linenr": "6",
+            "Line": "25 feet away there is a similar window looking into a lighted room.  A"
+        },
+        {
+            "Roomid": "35",
+            "Linenr": "7",
+            "Line": "shadowy figure can be seen there peering back at you."
+        },
+        {
+            "Roomid": "36",
+            "Linenr": "1",
+            "Line": "You are in a dirty broken passage.  To the east is a crawl.  To the"
+        },
+        {
+            "Roomid": "36",
+            "Linenr": "2",
+            "Line": "west is a large passage.  Above you is a hole to another passage."
+        },
+        {
+            "Roomid": "37",
+            "Linenr": "1",
+            "Line": "You are on the brink of a small clean climbable pit.  A crawl leads"
+        },
+        {
+            "Roomid": "37",
+            "Linenr": "2",
+            "Line": "west."
+        },
+        {
+            "Roomid": "38",
+            "Linenr": "1",
+            "Line": "You are in the bottom of a small pit with a little stream, which"
+        },
+        {
+            "Roomid": "38",
+            "Linenr": "2",
+            "Line": "enters and exits through tiny slits."
+        },
+        {
+            "Roomid": "39",
+            "Linenr": "1",
+            "Line": "You are in a large room full of dusty rocks.  There is a big hole in"
+        },
+        {
+            "Roomid": "39",
+            "Linenr": "2",
+            "Line": "the floor.  There are cracks everywhere, and a passage leading east."
+        },
+        {
+            "Roomid": "41",
+            "Linenr": "1",
+            "Line": "You are at the west end of Hall of Mists.  A low wide crawl continues"
+        },
+        {
+            "Roomid": "41",
+            "Linenr": "2",
+            "Line": "west and another goes north.  To the south is a little passage 6 feet"
+        },
+        {
+            "Roomid": "41",
+            "Linenr": "3",
+            "Line": "off the floor."
+        },
+        {
+            "Roomid": "60",
+            "Linenr": "1",
+            "Line": "You are at the east end of a very long hall apparently without side"
+        },
+        {
+            "Roomid": "60",
+            "Linenr": "2",
+            "Line": "chambers.  To the east a low wide crawl slants up.  To the north a"
+        },
+        {
+            "Roomid": "60",
+            "Linenr": "3",
+            "Line": "round two foot hole slants down."
+        },
+        {
+            "Roomid": "61",
+            "Linenr": "1",
+            "Line": "You are at the west end of a very long featureless hall.  The hall"
+        },
+        {
+            "Roomid": "61",
+            "Linenr": "2",
+            "Line": "joins up with a narrow north/south passage."
+        },
+        {
+            "Roomid": "62",
+            "Linenr": "1",
+            "Line": "You are at a crossover of a high N/S passage and a low E/W one."
+        },
+        {
+            "Roomid": "63",
+            "Linenr": "1",
+            "Line": "Dead end"
+        },
+        {
+            "Roomid": "69",
+            "Linenr": "1",
+            "Line": "You are in a secret N/S canyon above a large room."
+        },
+        {
+            "Roomid": "74",
+            "Linenr": "1",
+            "Line": "You are in a secret canyon which here runs e/w.  It crosses over a"
+        },
+        {
+            "Roomid": "74",
+            "Linenr": "2",
+            "Line": "very tight canyon 15 feet below.  If you go down you may not be able"
+        },
+        {
+            "Roomid": "74",
+            "Linenr": "3",
+            "Line": "to get back up."
+        },
+        {
+            "Roomid": "75",
+            "Linenr": "1",
+            "Line": "You are at a wide place in a very tight N/S canyon."
+        },
+        {
+            "Roomid": "77",
+            "Linenr": "1",
+            "Line": "You are in a tall E/W canyon.  A low tight crawl goes 3 feet north and"
+        },
+        {
+            "Roomid": "77",
+            "Linenr": "2",
+            "Line": "seems to open up."
+        },
+        {
+            "Roomid": "78",
+            "Linenr": "1",
+            "Line": "The canyon runs into a mass of boulders -- dead end."
+        },
+        {
+            "Roomid": "109",
+            "Linenr": "1",
+            "Line": "You are in a north/south canyon about 25 feet across.  The floor is"
+        },
+        {
+            "Roomid": "109",
+            "Linenr": "2",
+            "Line": "covered by white mist seeping in from the north.  The walls extend"
+        },
+        {
+            "Roomid": "109",
+            "Linenr": "3",
+            "Line": "upward for well over 100 feet.  Suspended from some unseen point far"
+        },
+        {
+            "Roomid": "109",
+            "Linenr": "4",
+            "Line": "above you, an enormous two-sided mirror is hanging parallel to and"
+        },
+        {
+            "Roomid": "109",
+            "Linenr": "5",
+            "Line": "midway between the canyon walls.  (The mirror is obviously provided"
+        },
+        {
+            "Roomid": "109",
+            "Linenr": "6",
+            "Line": "for the use of the dwarves, who as you know, are extremely vain.)  A"
+        },
+        {
+            "Roomid": "109",
+            "Linenr": "7",
+            "Line": "small window can be seen in either wall, some fifty feet up."
+        },
+        {
+            "Roomid": "113",
+            "Linenr": "1",
+            "Line": "You are at the edge of a large underground reservoir.  An opaque cloud"
+        },
+        {
+            "Roomid": "113",
+            "Linenr": "2",
+            "Line": "of white mist fills the room and rises rapidly upward.  The lake is"
+        },
+        {
+            "Roomid": "113",
+            "Linenr": "3",
+            "Line": "fed by a stream, which tumbles out of a hole in the wall about 10 feet"
+        },
+        {
+            "Roomid": "113",
+            "Linenr": "4",
+            "Line": "overhead and splashes noisily into the water somewhere within the"
+        },
+        {
+            "Roomid": "113",
+            "Linenr": "5",
+            "Line": "mist."
+        },
+        {
+            "Roomid": "120",
+            "Linenr": "1",
+            "Line": "You are in a secret canyon which exits to the north and east."
+        },
+        {
+            "Roomid": "200",
+            "Linenr": "1",
+            "Line": "You are in a maze of twisting little passages, all different."
+        },
+        {
+            "Roomid": "201",
+            "Linenr": "1",
+            "Line": "You are in a little maze of twisty passages, all different."
+        },
+        {
+            "Roomid": "202",
+            "Linenr": "1",
+            "Line": "You are in a twisting maze of little passages, all different."
+        },
+        {
+            "Roomid": "203",
+            "Linenr": "1",
+            "Line": "You are in a twisting little maze of passages, all different."
+        },
+        {
+            "Roomid": "204",
+            "Linenr": "1",
+            "Line": "You are in a twisty little maze of passages, all different."
+        },
+        {
+            "Roomid": "205",
+            "Linenr": "1",
+            "Line": "You are in a twisty maze of little passages, all different."
+        },
+        {
+            "Roomid": "206",
+            "Linenr": "1",
+            "Line": "You are in a little twisty maze of passages, all different."
+        },
+        {
+            "Roomid": "207",
+            "Linenr": "1",
+            "Line": "You are in a maze of twisting little passages, all different."
+        },
+        {
+            "Roomid": "208",
+            "Linenr": "1",
+            "Line": "You are in a little maze of twisty passages, all different."
+        },
+        {
+            "Roomid": "209",
+            "Linenr": "1",
+            "Line": "You are in a twisting maze of little passages, all different."
+        },
+        {
+            "Roomid": "210",
+            "Linenr": "1",
+            "Line": "You are in a twisting little maze of passages, all different."
+        },
+        {
+            "Roomid": "211",
+            "Linenr": "1",
+            "Line": "You are in a twisty little maze of passages, all different."
+        },
+        {
+            "Roomid": "212",
+            "Linenr": "1",
+            "Line": "You are in a twisty maze of little passages, all different."
+        },
+        {
+            "Roomid": "213",
+            "Linenr": "1",
+            "Line": "You are in a little twisty maze of passages, all different."
+        },
+        {
+            "Roomid": "214",
+            "Linenr": "1",
+            "Line": "You are in a little twisty maze of passages, all different."
+        },
+        {
+            "Roomid": "245",
+            "Linenr": "1",
+            "Line": "You are on the brink of a thirty foot pit with a massive orange column"
+        },
+        {
+            "Roomid": "245",
+            "Linenr": "2",
+            "Line": "down one wall.  You could climb down here but you could not get back"
+        },
+        {
+            "Roomid": "245",
+            "Linenr": "3",
+            "Line": "up.  The maze continues at this level."
+        },
+        {
+            "Roomid": "250",
+            "Linenr": "1",
+            "Line": "You are in an immense room. On a shelf of rock high above"
+        },
+        {
+            "Roomid": "250",
+            "Linenr": "2",
+            "Line": "you there are marvelous treasures. Unfortunately, the wall is"
+        },
+        {
+            "Roomid": "250",
+            "Linenr": "3",
+            "Line": "smooth and too slippery to climb. Before the wall there is a rather"
+        },
+        {
+            "Roomid": "250",
+            "Linenr": "4",
+            "Line": "large wooden chest. It is locked with four huge and rusty locks."
+        }
+    ],
+    "MinusOneRules": [
+        {
+            "Nr": "1",
+            "Effect": "gameover",
+            "Hitpoints": "0",
+            "Message": "You fell through a crack and plummeted 100 ft to your death"
+        },
+        {
+            "Nr": "2",
+            "Effect": "gameover",
+            "Hitpoints": "0",
+            "Message": "You slipped, bounced down the cliff into the water and drowned"
+        },
+        {
+            "Nr": "3",
+            "Effect": "hitloss",
+            "Hitpoints": "-10",
+            "Message": "You ran into a wall"
+        },
+        {
+            "Nr": "4",
+            "Effect": "hitloss",
+            "Hitpoints": "-15",
+            "Message": "You sprained your ankle on a slight depression"
+        },
+        {
+            "Nr": "5",
+            "Effect": "gameover",
+            "Hitpoints": "0",
+            "Message": "You fell into a deep crevice, landed on a ledge and starved to death"
+        },
+        {
+            "Nr": "6",
+            "Effect": "hitloss",
+            "Hitpoints": "-5",
+            "Message": "A wraith chased you out of the tunnel"
+        },
+        {
+            "Nr": "7",
+            "Effect": "gameover",
+            "Hitpoints": "0",
+            "Message": "A cockatrice turned you into stone!"
+        },
+        {
+            "Nr": "8",
+            "Effect": "gameover",
+            "Hitpoints": "0",
+            "Message": "You ran into a swarm of killer bees!"
+        },
+        {
+            "Nr": "9",
+            "Effect": "hitloss",
+            "Hitpoints": "-20",
+            "Message": "You got bit by a large dog guarding the passageway"
+        },
+        {
+            "Nr": "10",
+            "Effect": "hitloss",
+            "Hitpoints": "-15",
+            "Message": "You found an energy drink, drank it and got poisoned."
+        }
+    ],
+    "Things": [
+        {
+            "Thing": "Skeleton Key",
+            "Roomid": "3",
+            "Visible": "1",
+            "Attainable": "1"
+        },
+        {
+            "Thing": "Cage",
+            "Roomid": "10",
+            "Visible": "1",
+            "Attainable": "1"
+        },
+        {
+            "Thing": "Rod",
+            "Roomid": "11",
+            "Visible": "1",
+            "Attainable": "1"
+        },
+        {
+            "Thing": "Bird",
+            "Roomid": "13",
+            "Visible": "1",
+            "Attainable": "0"
+        },
+        {
+            "Thing": "Gold",
+            "Roomid": "18",
+            "Visible": "1",
+            "Attainable": "1"
+        },
+        {
+            "Thing": "Diamonds",
+            "Roomid": "27",
+            "Visible": "1",
+            "Attainable": "1"
+        },
+        {
+            "Thing": "Silver",
+            "Roomid": "28",
+            "Visible": "1",
+            "Attainable": "1"
+        },
+        {
+            "Thing": "Jewelry",
+            "Roomid": "29",
+            "Visible": "1",
+            "Attainable": "1"
+        },
+        {
+            "Thing": "Coins",
+            "Roomid": "30",
+            "Visible": "1",
+            "Attainable": "1"
+        },
+        {
+            "Thing": "Glass Key",
+            "Roomid": "120",
+            "Visible": "0",
+            "Attainable": "0"
+        },
+        {
+            "Thing": "Rusty Key",
+            "Roomid": "203",
+            "Visible": "1",
+            "Attainable": "1"
+        },
+        {
+            "Thing": "Brass Key",
+            "Roomid": "214",
+            "Visible": "1",
+            "Attainable": "1"
+        },
+        {
+            "Thing": "Pirate Chest",
+            "Roomid": "250",
+            "Visible": "1",
+            "Attainable": "0"
+        }
+    ]
+}
